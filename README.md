@@ -1,3 +1,16 @@
+# Important Note
+
+The creator (kelpseastem) has privated the original Repo and has said publicly that this was a troll. Now at first it makes sense because the steps are somewhat retarded. But then you realize, multiple people UNRELATED with "kiro" have said this actually worked and posted proof (cannot confirm if it they are real, but these accounts don't look like alt accounts)
+
+![working case](unsigma.webp)
+![working case](skibidi.webp)
+![working case](silky.webp)
+
+Anyways, point is SOMETHING happened and it couldn't have been because of crsh2tty since thats fake; [Bromine35](https://github.com/entrpix) has actually been looking into similar cases of people exiting recovery mode and randomly unenrolling 
+by accident and maybe this is connected so idk. Whether you believe it was actually a troll or not and decide to do it is your choice I guess, but take this entire repo with a grain of salt.
+
+Original readme:
+
 # CRSH2TTY
 CRSH2TTY is a universal unenrollment method found by [@kelpseastem](https://github.com/kelpseastem) and [@Entrpix](https://github.com/entrpix).
 1. [Guide](Docs/guide.md)
