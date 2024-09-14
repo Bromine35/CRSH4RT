@@ -9,7 +9,7 @@ The creator (kelpseastem) has privated the original Repo and has said publicly t
 Anyways, point is SOMETHING happened and it couldn't have been because of crsh2tty since thats fake; [Bromine35](https://github.com/entrpix) has actually been looking into similar cases of people exiting recovery mode and randomly unenrolling 
 by accident and maybe this is connected so idk. Whether you believe it was actually a troll or not and decide to do it is your choice I guess, but take this entire repo with a grain of salt.
 
-Original readme:
+Original readme (and no, this isn't a fork of theskid22's repo this was forked from the original before it went down but its the same so yeah):
 
 # CRSH2TTY
 CRSH2TTY is a universal unenrollment method found by [@kelpseastem](https://github.com/kelpseastem) and [@Entrpix](https://github.com/entrpix).
