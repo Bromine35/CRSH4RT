@@ -1,4 +1,8 @@
-# Important Note
+# IMPORTANT NOTE NUMBER TWO
+
+People have actually unenrolled with this (including me, doxr and byte and peap) in Bromine and we have chromeos logs of what happened when crshitty works so yeah this is not a troll don't be fooled. but I will say still take stuff in the repo with a grain of salt
+
+# Important Note (original important note)
 
 The creator (kelpseastem) has privated the original Repo and has said publicly that this was a troll. Now at first it makes sense because the steps are somewhat retarded. But then you realize, multiple people UNRELATED with "kiro" have said this actually worked and posted proof (cannot confirm if it they are real, but these accounts don't look like alt accounts)
 
